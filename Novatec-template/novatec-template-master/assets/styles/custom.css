@@ -1,0 +1,271 @@
+body {
+    margin: 0px 163px 0px 163px;
+}
+.header {
+    border-top: 5px solid #006486;
+    border-bottom: 5px solid #006486;
+    background-color: #EDF2F2;
+    width: 1348px;
+}
+.container {
+    margin: 0px;
+    width: 1040px;
+}
+.a-logo {
+    width: 50px;
+    height: 30px;
+    margin: 15px 0px 0px 15px;
+}
+.header-menu1 {
+    background-color: #006486;
+    width: 295px;
+    height: 45px;
+    margin: 0px 0px 0px 594px;
+    border-bottom-left-radius: 20px;
+
+}
+.header-menu1 ul li {
+    display: inline-block;
+    font-size: 12px;
+    color: #FFFFFF;
+    font-weight: bold;
+
+}
+.pedidos-img {
+    margin: 0px 53px 0px 45px;
+}
+.cadastro-img {
+    margin: 0px 35px 0px 0px;
+}
+.duvidas-img {
+    margin: 0px 32px 0px 0px;
+}
+.carrinho-img {
+    margin: 0px 13px 0px 0px;
+}
+.pedidos-texto {
+    padding: 0px 6px 0px 21px;
+}
+.duvidas-texto {
+    padding: 0px 6px 0px 6px;
+}
+.header-menu2 {
+    width: 770px;
+    margin-left: 123px;
+    font-size: 12px;
+}
+.header-menu2 ul li {
+    display: inline-block;
+    border-top-right-radius: 10px;
+}
+.home {
+    padding: 5px 10px 5px 10px;
+    margin: 40px 10px 0px 0px;
+    background-color: #006486;
+}
+.mangas {
+    background-color: #C3DFE7;
+    padding: 5px 10px 5px 10px;
+    margin-right: 10px;
+}
+.catalogo {
+    background-color: #C3DFE7;
+    padding: 5px 10px 5px 10px;
+    margin-right: 10px;
+}
+.professores {
+    background-color: #C3DFE7;
+    padding: 5px 10px 5px 10px;
+    margin-right: 10px;
+}
+.seja {
+    background-color: #C3DFE7;
+    padding: 5px 10px 5px 10px;
+    margin-right: 10px;
+}
+.blog {
+    background-color: #C3DFE7;
+    padding: 5px 10px 5px 10px;
+    margin-right: 10px;
+}
+.centro {
+    background-color: #FF737F;
+    padding: 5px 10px 5px 10px;
+    margin-right: 10px;
+}
+.quem {
+    background-color: #C3DFE7;
+    padding: 5px 10px 5px 10px;
+    margin-right: 10px;
+}
+.fale {
+    background-color: #C3DFE7;
+    padding: 5px 10px 5px 10px;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+.a-home {
+    color: #FFFFFF;
+}
+.container2 {
+    width: 1348px;
+    height: 50px;
+    background-color: #EDF2F2;
+    margin: 5px 0px 10px 0px;
+}
+.form1 {
+    width: 670px;
+    height: 50px;
+    margin: 0px 0px 0px 170px;
+}
+.busca {
+    width: 580px;
+    height: 35px;
+    color: #CCCCCC;
+    font-size: 18px;
+    font-weight: bold;
+    border: 2px solid #C3C3C3;
+    margin: 7.5px 10px 0px 0px;
+}
+.botao-busca {
+    background-color: #027399;
+    color: #FFFFFF;
+    height: 35px;
+    font-size: 18px;
+    font-weight: bold;
+}
+.aside-left {
+    margin: 0px 0px 80px 3px;
+    height: 574px;
+    width: 150px;
+}
+.lista-e li {
+    font-size: 13.6px;
+    background-color: #EDF2F2;
+    border-top: 1px solid #fff;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 4px;
+}
+.lista-e li:hover {
+    background-color:#E0E9E9;
+}
+.lista-e a {
+    color: #003399;
+}
+.lista-e a:hover {
+    color: black;
+}
+.categorias {
+    font-size: 16px;
+    font-weight: bold;
+    background-color: #027399;
+    color: #FFFFFF;
+    padding: 6px;
+}
+.main {
+    width: 667px;
+    height: 655px;
+}
+.aside-right {
+    width: 180px;
+    height: 493px;
+    margin: 0px 3px 0px 0px;
+}
+.h1 {
+    font-size: 16px;
+    font-weight: bold;
+    background-color: #027399;
+    color: #FFFFFF;
+    padding: 6px;
+    width: 180px;
+}
+.social {
+    height: 139px;
+    width: 180px;
+    background-color: #EDF2F2;
+    margin: 0px 0px 10px 0px;
+}
+.lista-d li {
+    display: inline-block;
+}
+.li-twitter {
+    margin: 9.16px 3px 0px 9.16px;
+}
+.li-linkedin {
+    margin: 9.16px 3px 0px 3px;
+}
+.li-facebook {
+    margin: 9.16px 3px 0px 3px;
+}
+.li-skoob {
+    margin: 9.16px 3px 0px 3px;
+}
+.li-instagram {
+    margin: 9.16px 3px 0px 3px;
+}
+.p-social {
+    font-size: 12px;
+    text-align: center;
+    margin: 12px 0px 0px 0px;
+}
+.form2 {
+    width: 180px;
+    margin: 13px 0px 0px 0px;
+    position: relative;
+}
+.busca2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    border: 1px solid #36566E;
+    width: 139px;
+    height: 16px;
+    margin: 0px 4px 0px 10px;
+}
+.botao-busca2 {
+    width: 15px;
+    height: 15px;
+    position: relative;
+    top: 5px;
+}
+.bootstrap {
+    background-color: #5A4080;
+    height: 134px;
+    width: 180px;
+    margin: 0px 0px 16px 0px;
+}
+.h2 {
+    font-size: 16px;
+    font-weight: bold;
+    background-color: #027399;
+    color: #FFFFFF;
+    padding: 6px;
+    width: 180px;
+}
+.cursos {
+    background-color: #EDF2F2;
+    width: 180px;
+    height: 137px;
+}
+.img-arduino {
+    width: 170px;
+    height: 30px;
+    margin: 5px 5px 0px 5px;
+}
+.img-kubernetes {
+    width: 170px;
+    height: 30px;
+    margin: 0px 5px 0px 5px;
+}
+.img-asterisk-b {
+    width: 170px;
+    height: 30px;
+    margin: 0px 5px 0px 5px;
+}
+.img-asterisk-a {
+    width: 170px;
+    height: 30px;
+    margin: 0px 5px 0px 5px;
+}
